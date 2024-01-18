@@ -1,5 +1,5 @@
 ---
-id: roulette
+id: roleta
 tags:
   - chatbot
   - commands
@@ -7,7 +7,7 @@ tags:
 ---
 # !roulette
 
-The `!roulette` command is used to start a roulette game in the chat.
+The `!roleta` command is used to start a roulette game in the chat.
 
 ### Arguments
 
@@ -16,19 +16,19 @@ The `!roulette` command is used to start a roulette game in the chat.
 ### Usage
 
 ```
-!roulette <bet>
+!roleta <bet>
 ```
 
 ### Example Input
 
 ```
-!roulette 100
+!roleta 100
 
-!roulette 10k
+!roleta 10k
 
-!roulette 1m
+!roleta 1m
 
-!roulette 10%
+!roleta 10%
 ```
 
 ### Example Output
